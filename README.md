@@ -1,7 +1,7 @@
 # Here you can find different information related to k8s:
 
 - etcd - what the database type is and why it uses by the k8s:
-  - https://learnk8s.io/etcd-kuberneteshttps://learnk8s.io/etcd-kubernetesi
+  - https://learnk8s.io/etcd-kubernetes
   - https://www.ibm.com/cloud/learn/etcd
 
 - StorageClass, PV, PVC
